@@ -1,0 +1,79 @@
+﻿{
+  "name": "Space Note4 下",
+  "maxBlock": 5,
+  "BPM": 140,
+  "offset": 0,
+  "notes": [
+
+    {
+      "LPB": 16,
+      "num": 0,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 0,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 0,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 72,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 72,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 136,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 136,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 200,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 200,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 248,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    }
+  ]
+}

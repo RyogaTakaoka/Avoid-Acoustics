@@ -1,0 +1,114 @@
+﻿{
+  "name": "Space Note1 下",
+  "maxBlock": 5,
+  "BPM": 55,
+  "offset": 0,
+  "notes": [
+    
+    {
+      "LPB": 16,
+      "num": 208,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 208,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 224,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 232,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 238,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 266,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 266,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 296,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 296,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 296,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 304,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 311,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 311,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 352,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 352,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    }
+  ]
+}

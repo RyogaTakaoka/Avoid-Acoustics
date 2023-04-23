@@ -1,0 +1,148 @@
+﻿{
+  "name": "Space Note2 下",
+  "maxBlock": 5,
+  "BPM": 75,
+  "offset": 0,
+  "notes": [
+    {
+      "LPB": 16,
+      "num": 112,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 112,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 160,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 160,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 160,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 192,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 192,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 224,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 224,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 240,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 256,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 256,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 288,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 288,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 292,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 296,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 304,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 304,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 336,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 336,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    }
+  ]
+}

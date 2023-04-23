@@ -1,0 +1,198 @@
+﻿{
+  "name": "Space Note1",
+  "maxBlock": 5,
+  "BPM": 55,
+  "offset": 0,
+  "notes": [
+    
+    {
+      "LPB": 16,
+      "num": 80,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 128,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 160,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 162,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 164,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 176,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 184,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 192,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 208,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 208,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 224,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 240,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 240,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 277,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 281,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 285,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 288,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 296,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 304,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 312,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 312,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 312,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 312,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 360,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 360,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 368,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 16,
+      "num": 384,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    }
+  ]
+}
